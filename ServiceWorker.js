@@ -1,4 +1,4 @@
-const cacheName = "DefaultCompany-MemeShooter-1.0";
+const cacheName = "DefaultCompany-NoDroneZone-1.0";
 const contentToCache = [
     "Build/MemeShooterBuild.loader.js",
     "Build/MemeShooterBuild.framework.js",
