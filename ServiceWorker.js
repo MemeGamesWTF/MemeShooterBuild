@@ -2,7 +2,7 @@ const cacheName = "DefaultCompany-NoDroneZone-1.0";
 const contentToCache = [
     "Build/b0d7489f531dc6068b3a8473b6ba9f6a.loader.js",
     "Build/357dfc6dcd0bde88046039a55e2c8f64.framework.js",
-    "Build/75ee0c659ad0e33cc13d5173a5ecd316.data",
+    "Build/9a698f9d7e64a45e910f681c5b6fe023.data",
     "Build/556a747b1195dbb523b6ea0ae828802a.wasm",
     "TemplateData/style.css"
 
