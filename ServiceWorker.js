@@ -1,9 +1,9 @@
 const cacheName = "DefaultCompany-NoDroneZone-1.0";
 const contentToCache = [
-    "Build/MemeShooterBuild.loader.js",
-    "Build/MemeShooterBuild.framework.js",
-    "Build/MemeShooterBuild.data",
-    "Build/MemeShooterBuild.wasm",
+    "Build/b0d7489f531dc6068b3a8473b6ba9f6a.loader.js",
+    "Build/357dfc6dcd0bde88046039a55e2c8f64.framework.js",
+    "Build/75da20eb436d268b4f5bf9bfb9e54f97.data",
+    "Build/556a747b1195dbb523b6ea0ae828802a.wasm",
     "TemplateData/style.css"
 
 ];
